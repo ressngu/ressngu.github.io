@@ -26,7 +26,7 @@ The first prototype was used to test the functionality and size of the sprayer. 
 ## Prototype 2
 
 
-https://user-images.githubusercontent.com/106416304/170843863-60aaa633-1736-4903-b401-8a3a4e652106.mp4
+<video src="https://user-images.githubusercontent.com/106416304/170843863-60aaa633-1736-4903-b401-8a3a4e652106.mp4"</video>
 
 
 From the first prototype, we learned what necessary changes to make in the second prototype. The second prototype offers curved edges to improve comfortability in hand. The volume of the body was expanded and made hollow ot allow for increased hand-sanitizer storage. For refilling hand-sanitizer, the push-button was split into two parts and connected via a dowel joint. 
