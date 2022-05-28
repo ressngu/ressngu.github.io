@@ -31,9 +31,10 @@ project_entries:
     desc: Personally-designed and fabricated life jacket bag for Iolani Kayaking and Paddling teams.
     highlight: WIP
 
-  - title: Water Solutions
+  - title: Clean Water Solutions
     url: killhour-water
-    desc: Condensation-based water solutions.
+    desc: Design and prototyping condensation-based water solutions.
+    highlight: WIP
 
 footer_entries:
   - title: twitter
