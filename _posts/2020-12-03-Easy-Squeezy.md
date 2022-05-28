@@ -1,11 +1,17 @@
 ---
 layout: post
-author: Abhinav Saxena
+author: Ress Nguyen
 ---
+# Effect of COVID-19 on Children
+In the past few years, children have been hit especially hard in key developmental stages. Children under the age of 12 can't get vaccinated; however, it is still important to keep them safe as schools open.
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+# Our Product - The Easy-Squeezy
+The Easy-Squeezy is a child-size, customizable, and tactile sanitizer. It is designed to be portable and attach to backpacks to prevent loss and promote use.
 
-# Sample heading 1
+The small device mimics a stress ball, making the application of hand sanitizer fun and easy. A velcro attachment allows versatility of the Easy-Squeezy, while the refillable body promotes a long product life-span. Compared to disposable hand sanitizer bottles, the Easy-Squeezy is a more eco-friendly product.
+
+# Design and Prototyping
+
 ## Sample heading 2
 ### Sample heading 3
 #### Sample heading 4
