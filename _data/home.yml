@@ -2,69 +2,45 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
+  - title: projects
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
-
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
-
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
-
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+  - title: Biodegradable Masks
+    url: apsc-169
+    desc: Addressing the environmental impact of single-use masks.
     highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
+  - title: Easy-Squeezy
+    url: final-design-project
+    desc: Encouraging COVID-19 precautionary measures for children.
     highlight: WIP
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Greenwashing
+    url: apsc-176
+    desc: Calling out unsustainable practices of UBCO's dining hall.
+    highlight: WIP
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: Antarctic Snow Cruiser
+    url: solidworks-project
+    desc: Fully-functional upgrade of the 1939 Antarctic Snow Cruiser designed in SolidWorks.
+    highlight: WIP
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Quick-access Life Jacket Storage
+    url: life-jacket-bag
+    desc: Personally-designed and fabricated life jacket bag for Iolani Kayaking and Paddling teams.
+    highlight: WIP
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Water Solutions
+    url: killhour-water
+    desc: Condensation-based water solutions.
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/ressiepower
 
   - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+    url: https://github.com/ressngu
 
 misc_entries:
   - title: this is an example vertical list
