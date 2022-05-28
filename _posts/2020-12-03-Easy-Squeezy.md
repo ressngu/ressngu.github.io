@@ -43,8 +43,3 @@ While we have only designed a single size of the product, future iterations will
 
 # Conclusion
 Throughout COVID-19, there have been many difficulties keeping safety precautions in classrooms and other spaces. It is hard for children to understand why we need to wear masks and take protective measures. Thus, children often do not wear their masks correctly and forget to sanitize their hands, making both inherently inneffective. These difficulties inspired our team to focus our demographic on children.
-
-Easy Squeezy usage:
-<p align="center">
-<iframe width="180" height="320" src="[https://www.youtube.com/embed/f9pnDDi4nt4](https://youtube.com/shorts/6CbfwhOXS6o?feature=share)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
