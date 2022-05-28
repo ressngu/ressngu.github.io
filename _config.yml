@@ -2,7 +2,7 @@ title: Ress Nguyen
 author: Ress Nguyen
 url: https://ressngu.github.io/
 description: > # description of the site (multiple lines allowed)
-  I am Ress Nguyen, a first year at the University of British Columbia studying Engineering. My interests lie in product design, sustainability, 3D modelling, and solving problems using engigneering principles. I like to solve any problem that comes my way using creative methods and by thinking outside-the-box. I work on projects related to current-day issues and Computer-Aided Design.
+  My name is Ress Nguyen and I am a first year studying Engineering at the University of British Columbia. My interests lie in product design, sustainability, 3D modelling, and solving problems using engigneering principles. I like to solve any problem that comes my way using creative methods and by thinking outside-the-box. I work on projects related to current-day issues and Computer-Aided Design.
 
 permalink: /:slug
 
@@ -37,7 +37,7 @@ theme_config:
     title_old_projects: Old Projects
 
 soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
+  publish_token: "pt_528f34001b48f261899ed56f982a32d5" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 
