@@ -7,7 +7,7 @@ navbar_entries:
 
 project_entries:
   - title: Biodegradable Masks
-    url: apsc-169
+    url: bio-masks
     desc: Addressing the environmental impact of single-use masks.
     highlight: WIP
 
@@ -16,7 +16,7 @@ project_entries:
     desc: Encouraging COVID-19 precautionary measures for children.
 
   - title: Greenwashing
-    url: apsc-176
+    url: greenwashing
     desc: Calling out unsustainable practices of UBCO's dining hall.
     highlight: WIP
 
@@ -31,7 +31,7 @@ project_entries:
     highlight: WIP
 
   - title: Clean Water Solutions
-    url: killhour-water
+    url: clean-water
     desc: Design and prototyping condensation-based water solutions.
     highlight: WIP
 
