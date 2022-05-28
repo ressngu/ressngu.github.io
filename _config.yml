@@ -1,8 +1,8 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: Ress Nguyen
+author: Ress Nguyen
+url: https://ressngu.github.io/
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  I am Ress Nguyen, a first year at the University of British Columbia studying Engineering. My interests lie in product design, sustainability, 3D modelling, and solving problems using engigneering principles. I like to solve any problem that comes my way using creative methods and by thinking outside-the-box. I work on projects related to current-day issues and Computer-Aided Design.
 
 permalink: /:slug
 
