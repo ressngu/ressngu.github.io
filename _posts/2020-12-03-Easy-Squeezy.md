@@ -25,17 +25,16 @@ The first prototype was used to test the functionality and size of the sprayer. 
 
 ## Prototype 2
 
-
-<video src="https://user-images.githubusercontent.com/106416304/170843863-60aaa633-1736-4903-b401-8a3a4e652106.mp4"</video>
-
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zky6UIRJ9A4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 From the first prototype, we learned what necessary changes to make in the second prototype. The second prototype offers curved edges to improve comfortability in hand. The volume of the body was expanded and made hollow ot allow for increased hand-sanitizer storage. For refilling hand-sanitizer, the push-button was split into two parts and connected via a dowel joint. 
 Physical prototype: 
 
-
-https://user-images.githubusercontent.com/106416304/170843997-6db9aa91-540e-40e6-91b6-c636458e565e.mp4
-
-
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f9pnDDi4nt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ## Future prototypes
 ![color_options](https://user-images.githubusercontent.com/106416304/170844359-2159d994-b3cd-4770-9cdc-f46ac25b4790.jpg)
@@ -44,3 +43,8 @@ While we have only designed a single size of the product, future iterations will
 
 # Conclusion
 Throughout COVID-19, there have been many difficulties keeping safety precautions in classrooms and other spaces. It is hard for children to understand why we need to wear masks and take protective measures. Thus, children often do not wear their masks correctly and forget to sanitize their hands, making both inherently inneffective. These difficulties inspired our team to focus our demographic on children.
+
+Easy Squeezy usage:
+<p align="center">
+<iframe width="180" height="320" src="[https://www.youtube.com/embed/f9pnDDi4nt4](https://youtube.com/shorts/6CbfwhOXS6o?feature=share)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
