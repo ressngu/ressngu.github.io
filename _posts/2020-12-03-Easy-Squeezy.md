@@ -17,8 +17,8 @@ The Easy-Squeezy is composed of five 3D printed parts, a push-spray cap, a velcr
 
 ## Prototype 1
 
-
-https://user-images.githubusercontent.com/106416304/170844240-e1c70fd8-fe7b-43e6-8678-c5f20a718b14.mp4
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7G0E1okscE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 The first prototype was used to test the functionality and size of the sprayer. It featured four parts: the body, cap, a screw attachments, and a handle.
